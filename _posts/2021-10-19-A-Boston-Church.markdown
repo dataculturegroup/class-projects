@@ -1,6 +1,6 @@
 ---
 title:  A Boston Church shows how the relationship between faith and sexuality is changing
-date:   2021-03-16 00:09:00 -0500
+date:   2021-10-19 00:09:00 -0500
 categories: [ "JRNL3610.F21" ]
 authors: Alexis Santoro, Dylan Dhindsa
 ---
