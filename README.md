@@ -1,5 +1,5 @@
-Data Storytelling Course Blog
-=============================
+Class Projects Course Blog
+==========================
 
 This lets you author simple stories in [Markdown](https://daringfireball.net/projects/markdown/syntax) and embed javascript and
 other things that you cannot on other hosts like WordPress. Your posts will get automatically turned into HTML by the "Jekyll" engine.
@@ -29,9 +29,6 @@ GitHub, now owned by Microsoft, is a major backbone of software development prac
 
 ### Run this on your own computer
 
-Open up the terminal and do the following:
+To install, run this one time: `bundle install`.
 
-```
-bundle install
-jekyll serve
-```
+To run the local server: `./run.sh`.

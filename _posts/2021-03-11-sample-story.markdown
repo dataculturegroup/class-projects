@@ -1,7 +1,7 @@
 ---
 title:  Sample Story
 date:   2021-03-01 00:09:00 -0500
-categories: [ "maps" ]
+categories: [ "examples" ]
 authors: Rahul Bhargava
 ---
 

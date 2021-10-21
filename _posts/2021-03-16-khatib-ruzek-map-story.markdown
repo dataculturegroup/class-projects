@@ -1,8 +1,8 @@
 ---
 title:  “The racist history that got us to where we are” — mapping pollution inequities in Mass.
 date:   2021-03-16 00:09:00 -0500
-categories: [ "maps" ]
-authors: Jayden Khatib and Jonas Ruzek
+categories: [ "JRNL3700.S21" ]
+authors: Jayden Khatib, Jonas Ruzek
 ---
 
 Americans are anxiously tracking [the murder trial of Derek Chauvin](https://www.washingtonpost.com/nation/2021/03/15/derek-chauvin-george-floyd-trial/), the police officer who killed George Floyd, an unarmed Black man, in Minneapolis last May by kneeling on his neck for almost nine minutes.
@@ -13,7 +13,7 @@ Racial segregation [has meant](https://www.wbur.org/earthwhile/2021/03/05/haveri
 
 And Greater Boston is no exception.
 
-“This low investment and active disinvestment was on purpose, and it was due to racism,” said Heather McMann, the executive director of Groundwork Lawrence, a nonprofit that targets environmental racism in the Merrimack Valley. “And we really need to ... offset those [effects] that are still hurting our low-income, our low-resource neighborhoods now.” 
+“This low investment and active disinvestment was on purpose, and it was due to racism,” said Heather McMann, the executive director of Groundwork Lawrence, a nonprofit that targets environmental racism in the Merrimack Valley. “And we really need to ... offset those [effects] that are still hurting our low-income, our low-resource neighborhoods now.”
 
 ## Race is inseparable from pollution exposure
 
